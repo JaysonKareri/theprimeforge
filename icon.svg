@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect width="512" height="512" rx="112" fill="#0f0f14"/>
-  <!-- F in Brolex font — centered -->
-  <text x="256" y="395" font-family="Brolex,'Arial Black',Arial,sans-serif"
-        font-size="460" font-weight="900" fill="white"
-        text-anchor="middle">F</text>
-  <!-- Green dot — top right, separated from the F -->
-  <circle cx="418" cy="100" r="28" fill="#22c55e"/>
-</svg>
